@@ -3,9 +3,9 @@
 This is entry for kaggle competition:  https://www.kaggle.com/c/the-nature-conservancy-fisheries-monitoring
 
 ###[Data]
-1. Please refer to the readme.pdf for details. 
+1. Please refer to the readme.pdf for details. https://github.com/hengck23/Kaggle_Fisheries_Monitoring/blob/master/docs/readme.pdf 
 
-2. Here is a video to show annotation process.
+2. Here is a video to show annotation process. https://raw.githubusercontent.com/hengck23/Kaggle_Fisheries_Monitoring/master/docs/annotation.webm
 
 3. Due to copyright issue,we cannot put the kaggle images here. Instead, we show results on a few images downloaded
    from the internet to explain how to use the annotation tool.
