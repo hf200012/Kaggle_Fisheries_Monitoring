@@ -1,0 +1,6 @@
+#format: x0, y0, x1, y1,  cx, cy, rx, ry,   angle,  label #classname
+634	286	193	434	 413.0	360.0	232.6	62.0	161.4	4  #Albacore_tuna
+568	238	161	304	 364.0	271.0	206.2	46.5	170.8	4  #Albacore_tuna
+549	155	111	195	 330.0	175.0	219.9	45.4	174.8	4  #Albacore_tuna
+538	79	141	58	 339.0	68.0	198.8	48.8	-177.0	4  #Albacore_tuna
+#num_objects = 4

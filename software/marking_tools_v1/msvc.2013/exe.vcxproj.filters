@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="COMMON">
+      <UniqueIdentifier>{50b4902e-0a48-417d-86d8-db47bc4ef3d1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="COMMON\Others">
+      <UniqueIdentifier>{62108626-5930-4571-89e8-b9fe98787095}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="LOCAL">
+      <UniqueIdentifier>{f6222113-7289-4091-a9bc-3e65355323aa}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\[LOCAL]\common.h">
+      <Filter>LOCAL</Filter>
+    </ClInclude>
+    <ClInclude Include="..\[LOCAL]\defintion.h">
+      <Filter>LOCAL</Filter>
+    </ClInclude>
+    <ClInclude Include="..\[COMMON]\Others\Error.h">
+      <Filter>COMMON\Others</Filter>
+    </ClInclude>
+    <ClInclude Include="..\[COMMON]\Others\File.h">
+      <Filter>COMMON\Others</Filter>
+    </ClInclude>
+    <ClInclude Include="..\[COMMON]\Others\String.h">
+      <Filter>COMMON\Others</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\[LOCAL]\main.cpp">
+      <Filter>LOCAL</Filter>
+    </ClCompile>
+    <ClCompile Include="..\[COMMON]\Others\File.cpp">
+      <Filter>COMMON\Others</Filter>
+    </ClCompile>
+    <ClCompile Include="..\[COMMON]\Others\String.cpp">
+      <Filter>COMMON\Others</Filter>
+    </ClCompile>
+    <ClCompile Include="..\[LOCAL]\local.cpp">
+      <Filter>LOCAL</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

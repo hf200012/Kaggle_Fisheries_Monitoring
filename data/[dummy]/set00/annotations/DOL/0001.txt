@@ -1,0 +1,4 @@
+#format: x0, y0, x1, y1,  cx, cy, rx, ry,   angle,  label #classname
+160	366	696	400	 428.0	383.0	268.5	57.5	3.6	1  #Mahi
+676	281	111	293	 393.0	287.0	282.6	68.3	178.8	1  #Mahi
+#num_objects = 2
