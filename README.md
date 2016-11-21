@@ -3,7 +3,7 @@
 This is entry for kaggle competition:  https://www.kaggle.com/c/the-nature-conservancy-fisheries-monitoring
 
 ###[Data]
-1. Please refer to the "docs\readme.pdf" for details. 
+1. Please refer to the readme.pdf for details. 
 
 2. Here is a video to show annotation process.
 
